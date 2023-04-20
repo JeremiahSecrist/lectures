@@ -8,18 +8,8 @@ marp: true
 
 ---
 
-## Issue
-I want to teach you all about docker 
-but don't have enough time
-
-## Why
-Docker is complex
-
----
-
-## Issue
-Many moveing parts
-Proficcency takes time
+# I am not here to teach you docker
+###### But rather to help you teach yourself
 
 --- 
 
