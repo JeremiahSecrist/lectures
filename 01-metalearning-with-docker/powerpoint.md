@@ -9,11 +9,26 @@ marp: true
 ---
 
 # I am not here to teach you docker
-###### But rather to help you teach yourself
 
 --- 
 
-Research is a powerful tool, it enables us to see if others have paved a road for our own understanding. We all build upon shoulders of giants. 
+# Why am I here?
+ 1. Express the importance of self directed learning
+ 2. Give you tools and stratagies to aid you in solving your own learning experience problems
+ 3. Give you a taste of what indepenent study is like, and how to optimise it.
+
+---
+
+# What does education start with?
+ - Goals
+ - Destinations
+ - Projects
+ - Metrics
+ - Understanding yourself!
+
+---
+# Research
+a powerful tool, it enables us to see if others have paved a road for our own understanding. We all build upon shoulders of giants. 
 
 This stage of learning is focused around the following:
 
