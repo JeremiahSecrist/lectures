@@ -145,7 +145,8 @@ We can measure the following:
 They are meant to guide you, not hinder you. 
 
 ---
-# Studying has limits, apply them
+# Studying has limits:
+### Apply them!
  - Reading guides and tutorials can only take you so far on a given topic.
  - Pushing beyond what is available is how true growth occurs.
  - Experiment with new ways of doing things and write down the results.
