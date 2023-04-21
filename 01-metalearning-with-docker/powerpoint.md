@@ -166,17 +166,17 @@ What is next?
 
 ---
 
-## <!-- fit --> Maintain
+## <!-- fit --> Maintain you knowledge
 <!-- If you decide to maintine the new skill keep a regular interval of practice and self evaluation is key. Setup a weekly challange to test you are still razer sharp in the topic at hand. Be sure to find a way if possible to work it naturally into your daily routine.  -->
 
 ---
 
-## <!-- fit --> Relearn
+## <!-- fit --> Relearn it later
 <!-- Somtimes our plate is already full of things to maintine, in these situations it ok to relearn something later when you need it. But make sure you are ok with the costs of relearning a topic down the road when the time arrises. This is where evaluation of value over knowledge is key. Knowing you can apply it daily often results in one maintining the knowledge by default.  -->
 
 ---
 
-## <!-- fit --> Mastery
+## <!-- fit --> Mastery to go above and beyond
 <!-- Studies have shown that mastery of a skill keeps more of the baseline reguarding knowledge and problem solving. Take the saying "it's like riding a bike". This refers to the idea that making things second nature persist in a way that simply being skilled is not mastery. Mastery is the idea that knowledge is intune with you on an inimate level. -->
 
 ---
