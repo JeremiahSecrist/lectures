@@ -6,7 +6,7 @@ transition: fade
 title: Marp CLI example
 description: Hosting Marp slide deck on the web
 ---
-
+<!-- _class: lead -->
 # <!--fit--> Self Directed Learning
 
 By Jeremiah Secrist
