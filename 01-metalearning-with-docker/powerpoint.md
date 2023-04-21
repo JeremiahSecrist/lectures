@@ -1,14 +1,18 @@
 ---
 marp: true
+theme: uncover
+transition: fade
+title: Marp CLI example
+description: Hosting Marp slide deck on the web
 ---
 
-# Self Directed Learning With Docker
+# <!--fit--> Self Directed Learning
 
-###### By Jeremiah Secrist
+By Jeremiah Secrist
 
 ---
 
-# I am not here to teach you docker
+# <!--fit--> I am not here to teach you docker
 
 --- 
 
