@@ -3,8 +3,8 @@ marp: true
 theme: default
 class: invert
 transition: fade
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Self Directed Learning
+description: A guide to indipendent education
 ---
 <!-- _class: lead -->
 # <!--fit--> Self Directed Learning
@@ -17,11 +17,11 @@ By Jeremiah Secrist
 
 ---
 
-# Rather to give you the tools to educate yourself
+# <!--fit--> Rather to give you the tools to educate yourself
 <!-- Discuss how at the end there are some excersizes to aid in exploring docker -->
 --- 
 
-# Why am I here?
+# More specifically
  1. Express the importance of self directed learning
  2. Give you tools and stratagies to aid you in solving your own learning experience problems
  3. Give you a taste of what indepenent study is like, and how to optimise it.
