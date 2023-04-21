@@ -27,7 +27,7 @@ By Jeremiah Secrist
  3. Give you a taste of what indepenent study is like, and how to optimise it.
 
 ---
-
+![Marp bg left 60%](https://github.com/arouzing/lectures/blob/fb6c819fa8c74fa916542498f05e35477f7ff0af/assets/oladimeji-ajegbile-studying.jpg)
 # What is self directed learning?
 
 ---
