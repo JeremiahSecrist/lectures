@@ -105,9 +105,9 @@ One is implicit the other is explicit.
 
 ---
 
-## What can we glean?
+## What can we glean from this?
+### Reduced ambiguity!
 
-This contains a lot more information as to contrast the first one. 
 We can measure the following:
  - Why: To improve ones educational experience
  - Where: At the coffee shop 
@@ -116,7 +116,6 @@ We can measure the following:
  - How:  By reading for at least 1hr a day
  - Metrics: Pages read, comprehension
 
-This also ties into your everyday life and isn't arbitrary in nature. 
 
 ---
 
