@@ -142,7 +142,7 @@ This also ties into your everyday life and isn't arbitrary in nature.
 many other questions like this aid us in taking action on our own skill sets.
 
 ---
-![bg left 70% ](https://raw.githubusercontent.com/arouzing/lectures/main/assets/andrea-piacquadio-study-stress.jpg)
+![bg left 90% ](https://raw.githubusercontent.com/arouzing/lectures/main/assets/andrea-piacquadio-study-stress.jpg)
 # <!-- fit--> Don't let feedback discourage you! 
 They are meant to guide you, not hinder you. 
 
