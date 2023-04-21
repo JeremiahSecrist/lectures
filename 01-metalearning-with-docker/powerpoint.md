@@ -171,22 +171,18 @@ What is next?
 
 ---
 
-## Relearn
+## <!-- fit --> Relearn
 <!-- Somtimes our plate is already full of things to maintine, in these situations it ok to relearn something later when you need it. But make sure you are ok with the costs of relearning a topic down the road when the time arrises. This is where evaluation of value over knowledge is key. Knowing you can apply it daily often results in one maintining the knowledge by default.  -->
 
 ---
 
-## Mastery
+## <!-- fit --> Mastery
 <!-- Studies have shown that mastery of a skill keeps more of the baseline reguarding knowledge and problem solving. Take the saying "it's like riding a bike". This refers to the idea that making things second nature persist in a way that simply being skilled is not mastery. Mastery is the idea that knowledge is intune with you on an inimate level. -->
 
 ---
 
-# Small habits as compromise
-<!-- If the intensity of this learning suggested is not for you is not appealing. Small habits can have a large impacts on your life. Take brushing your teeth for instance, it's 1 minute of your day every day for the rest of your life. But that small daily routine results in your teeth lasting long into your old age. Look for these small changes you can commit to that large ooutcomes down the roa -->
 
----
-
-## Sources
+# Sources and recomended readings
 [ultralearning by scott h. young](https://www.scotthyoung.com/blog/ultralearning/)
 [How Learning Works: Seven Research-Based Principles for Smart Teaching by Susan A. Ambrose](https://www.amazon.com/How-Learning-Works-Research-Based-Principles-ebook/dp/B003IEJZXS)
 
