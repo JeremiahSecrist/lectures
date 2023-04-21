@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: uncover
+theme: default
+class: invert
 transition: fade
 title: Marp CLI example
 description: Hosting Marp slide deck on the web
