@@ -35,6 +35,7 @@ By Jeremiah Secrist
 # What does education start with?
  - Goals
  - Destinations
+ - Research
  - Projects
  - Metrics
  - Understanding yourself!
@@ -45,7 +46,8 @@ By Jeremiah Secrist
 
 This stage of learning is focused around the following:
 
- - finding Learning the full list of requirments to learn the desired skill
+ - Finding a full list of requirments to learn the desired skill
+  - Break it down
  - Identify main resources
  - Evaluate resources for credibility
  - To narrow the scope
@@ -54,7 +56,7 @@ This stage of learning is focused around the following:
 ---
 
 ## Personal Deadlines 
-An important in aiding in ones own learning abilities.
+An important point in aiding ones own learning abilities.
 Forever is never, as such it is important to frame our goals with the following:
 
  - Actionable goals
@@ -74,8 +76,7 @@ Forever is never, as such it is important to frame our goals with the following:
 ---
 
 # Just get started
- - preparation is never perfect
- - this is ok!
+ - preparation is never perfect, so don't stress!
 <!-- After proper preperation has been made for your own learning experience it is key to actually start doing it. Go into this knowning the plan will never be perfect and no itenerary will be 100% completely for a project. Simply getting started is the most powerful thing you can do.  -->
 
 ---
@@ -89,7 +90,7 @@ Forever is never, as such it is important to frame our goals with the following:
 ---
 
 # Lets evaluate the following two scenarios
-one is implicit the other is explicit
+One is implicit the other is explicit.
 
 ---
 
@@ -122,9 +123,8 @@ This also ties into your everyday life and isn't arbitrary in nature.
 # Distractions abound!
 
 - Life is full of distractions that hinder our learning effectiveness.
-- Some distractions can be removed entirely, while others cannot.
+- Some distractions can be removed entirely, while others cannot. It is up to us to evaluate them.
 - Recognize when distractions interfere with work and take note of them.
-- Minimize distractions to improve productivity flow.
 - Over time, become better at negating distractions.
 
 <!-- Life is full of constant distractions provided in many ways. Cellphones, friends, the internet, noisy envorments. They manifest in may ways and hinder our ability to learn effectivly within our given time frames. In some situations you may be able to remove the distractions enirely, for example setting your phone at home entirely. While in other situations you might not be able to remove the distractions you can learn to recognise when the interfere with your work. Either after you enter or leave your study session take note of what took your off your goal. Over time you will get better at negating these distractions from disturbing your flow of productivity. -->
@@ -133,18 +133,21 @@ This also ties into your everyday life and isn't arbitrary in nature.
 # Perfect in the void
 <!-- We are all experts in isolation, further inspection from outside sources we can quickly learn out own flaws in a given topic. Take writing or public speaking as examples. In order to increase our caoabilities it is crucial to request feedback those who have more expertise. It is also important to know how to filter out noise or bad feedback from others. -->
 
- - is the feedback vague? 
- - am I able to apply the feedback to my next project?
- - does it conflict with pre-existing knowledge?
- - does this focus on what I wish to improve?
- - is it consistently mentioned by others?
+ - Is the feedback vague? 
+ - Am I able to apply the feedback to my next project?
+ - Does it conflict with pre-existing knowledge?
+ - Is this focusing on what I wish to improve?
+ - Was consistently mentioned by others?
 
-many other questions like this aid us in taking action on our own draw backs
-
-But most importatntly don't let feedback discourage you from your goals! They are meant to guide you, not hinder you. 
+many other questions like this aid us in taking action on our own skill sets.
 
 ---
 
+# <!-- fit--> Don't let feedback discourage you! 
+They are meant to guide you, not hinder you. 
+
+---
+# Studying has limits, apply them
  - Reading guides and tutorials can only take you so far on a given topic.
  - Pushing beyond what is available is how true growth occurs.
  - Experiment with new ways of doing things and write down the results.
@@ -158,28 +161,29 @@ But most importatntly don't let feedback discourage you from your goals! They ar
 
 ---
 
-# Success
-Congratulations, you have learned a new skill! Now what? Having a skill does not mean it will stay with you forever. You must either decide if you are ok with having to relearn the skill, or if you will maintin the skill activly. My personal favorite is mastery, to go above and beyond on this skill.
+# Success!
+What is next?
+<!-- Congratulations, you have learned a new skill! Now what? Having a skill does not mean it will stay with you forever. You must either decide if you are ok with having to relearn the skill, or if you will maintin the skill activly. My personal favorite is mastery, to go above and beyond on this skill. -->
 
 ---
 
 ## Maintain
-If you decide to maintine the new skill keep a regular interval of practice and self evaluation is key. Setup a weekly challange to test you are still razer sharp in the topic at hand. Be sure to find a way if possible to work it naturally into your daily routine. 
+<!-- If you decide to maintine the new skill keep a regular interval of practice and self evaluation is key. Setup a weekly challange to test you are still razer sharp in the topic at hand. Be sure to find a way if possible to work it naturally into your daily routine.  -->
 
 ---
 
 ## Relearn
-Somtimes our plate is already full of things to maintine, in these situations it ok to relearn something later when you need it. But make sure you are ok with the costs of relearning a topic down the road when the time arrises. This is where evaluation of value over knowledge is key. Knowing you can apply it daily often results in one maintining the knowledge by default. 
+<!-- Somtimes our plate is already full of things to maintine, in these situations it ok to relearn something later when you need it. But make sure you are ok with the costs of relearning a topic down the road when the time arrises. This is where evaluation of value over knowledge is key. Knowing you can apply it daily often results in one maintining the knowledge by default.  -->
 
 ---
 
 ## Mastery
-Studies have shown that mastery of a skill keeps more of the baseline reguarding knowledge and problem solving. Take the saying "it's like riding a bike". This refers to the idea that making things second nature persist in a way that simply being skilled is not mastery. Mastery is the idea that knowledge is intune with you on an inimate level.
+<!-- Studies have shown that mastery of a skill keeps more of the baseline reguarding knowledge and problem solving. Take the saying "it's like riding a bike". This refers to the idea that making things second nature persist in a way that simply being skilled is not mastery. Mastery is the idea that knowledge is intune with you on an inimate level. -->
 
 ---
 
-# Small habits
-If the intensity of this learning suggested is not for you is not appealing. Small habits can have a large impacts on your life. Take brushing your teeth for instance, it's 1 minute of your day every day for the rest of your life. But that small daily routine results in your teeth lasting long into your old age. Look for these small changes you can commit to that large ooutcomes down the roa
+# Small habits as compromise
+<!-- If the intensity of this learning suggested is not for you is not appealing. Small habits can have a large impacts on your life. Take brushing your teeth for instance, it's 1 minute of your day every day for the rest of your life. But that small daily routine results in your teeth lasting long into your old age. Look for these small changes you can commit to that large ooutcomes down the roa -->
 
 ---
 
@@ -189,5 +193,5 @@ If the intensity of this learning suggested is not for you is not appealing. Sma
 
 ---
 
-# Docker Time
+# Let's apply our knowledge.
 Now that we have covered the topics and ways to improve our own learning expereince. Lets apply this to learning docker!
