@@ -29,7 +29,7 @@ By Jeremiah Secrist
 ---
 ![Marp bg left 70%](https://raw.githubusercontent.com/arouzing/lectures/fb6c819fa8c74fa916542498f05e35477f7ff0af/assets/oladimeji-ajegbile-studying.jpg)
 # What is self directed learning?
-
+- Simply to put education back into your hands
 ---
 
 # What does education start with?
@@ -40,8 +40,8 @@ By Jeremiah Secrist
  - Understanding yourself!
 
 ---
-# Research
-a powerful tool, it enables us to see if others have paved a road for our own understanding. We all build upon shoulders of giants. 
+# Research is a powerful tool!
+ <!-- it enables us to see if others have paved a road for our own understanding. We all build upon shoulders of giants.  -->
 
 This stage of learning is focused around the following:
 
@@ -66,7 +66,6 @@ Forever is never, as such it is important to frame our goals with the following:
     Without accountability one is not able to improve themselves. 
     Make sure to find some way to make the project matter outside simply just learning it. Try making your personal goals known by friends and family. As such they may ask you about your progress or deadlines you've set. most importantly write them down in a place where you will see them frequently. 
     -->
-
  - Routines
     <!--
     These enable you to consistnetly perform a tasks where other situation may force you to fight against the grain to study. one idea could be to intergrate reading with another existing habit. say when you go to the coffee shop you bring you book and leave the phone at home. 
@@ -74,14 +73,19 @@ Forever is never, as such it is important to frame our goals with the following:
     -->
 ---
 
-<!-- insert just do it meme -->
-
-After proper preperation has been made for your own learning experience it is key to actually start doing it. Go into this knowning the plan will never be perfect and no itenerary will be 100% completely for a project. Simply getting started is the most powerful thing you can do. 
+# Just get started
+ - preparation is never perfect
+ - this is ok!
+<!-- After proper preperation has been made for your own learning experience it is key to actually start doing it. Go into this knowning the plan will never be perfect and no itenerary will be 100% completely for a project. Simply getting started is the most powerful thing you can do.  -->
 
 ---
 
-As hinted at in prior sections be direct in your approach. This being to clearly know what you want to get out of a particular learning experience. This enables you to better critique your own learning experience in the future. Be explicit in your actions vs implicit.
+# Be Direct and Explicit
 
+ - Clearly define your learning goals
+ - Critique your learning experience for future improvement
+ - Be explicit in your actions, not implicit
+<!-- As hinted at in prior sections be direct in your approach. This being to clearly know what you want to get out of a particular learning experience. This enables you to better critique your own learning experience in the future. Be explicit in your actions vs implicit. -->
 ---
 
 # Lets evaluate the following two scenarios
@@ -91,7 +95,7 @@ one is implicit the other is explicit
 
 ## Implicit
 > I want to be a better reader. 
-While this is a wonderful aspiration it is implicit in many fashions. What is a good reader? What is a better reader? How are you going to do this? There are many questions asked to fully understand this simple statment.
+<!-- While this is a wonderful aspiration it is implicit in many fashions. What is a good reader? What is a better reader? How are you going to do this? There are many questions asked to fully understand this simple statment. -->
 
 ---
 
