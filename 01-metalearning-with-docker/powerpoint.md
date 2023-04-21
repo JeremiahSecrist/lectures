@@ -154,5 +154,11 @@ If the intensity of this learning suggested is not for you is not appealing. Sma
 
 ---
 
+## Sources
+[ultralearning by scott h. young](https://www.scotthyoung.com/blog/ultralearning/)
+[How Learning Works: Seven Research-Based Principles for Smart Teaching by Susan A. Ambrose](https://www.amazon.com/How-Learning-Works-Research-Based-Principles-ebook/dp/B003IEJZXS)
+
+---
+
 # Docker Time
 Now that we have covered the topics and ways to improve our own learning expereince. Lets apply this to learning docker!
