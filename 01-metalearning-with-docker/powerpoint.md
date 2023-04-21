@@ -101,7 +101,7 @@ One is implicit the other is explicit.
 ---
 
 ## Explicit 
-> I want to improve my reading skills by reading at least 1hr a day. My goal is to create a better edjucation habbit for myself that will aid in learning in other areas. I plan to take note of how many pages I read and critique how well I comprehendded to the topic. My first book I read will by Ultralearning by Scott H. Young. I wish to read this book as it also pairs well with my other education goals. I will start reading tomorrow when I go to the coffee shop.
+> I aspire to enhance my reading skills by devoting at least an hour each day to reading. My objective is to cultivate a robust habit of education that will support my learning in other areas. To track my progress, I intend to keep a record of the number of pages I read and assess my understanding of the material. For my initial book, I have chosen "Ultralearning" by Scott H. Young, as it aligns with my educational objectives. I am excited to begin my reading journey tomorrow at the coffee shop.
 
 ---
 
