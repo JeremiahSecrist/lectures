@@ -15,12 +15,20 @@ By Jeremiah Secrist
 
 # <!--fit--> I am not here to teach you docker
 
+---
+
+# Rather to give you the tools to educate yourself
+<!-- Discuss how at the end there are some excersizes to aid in exploring docker -->
 --- 
 
 # Why am I here?
  1. Express the importance of self directed learning
  2. Give you tools and stratagies to aid you in solving your own learning experience problems
  3. Give you a taste of what indepenent study is like, and how to optimise it.
+
+---
+
+# What is self directed learning?
 
 ---
 

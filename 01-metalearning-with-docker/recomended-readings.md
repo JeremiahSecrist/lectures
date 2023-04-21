@@ -1,2 +1,0 @@
-[ultralearning by scott h. young](https://www.scotthyoung.com/blog/ultralearning/)
-[How Learning Works: Seven Research-Based Principles for Smart Teaching by Susan A. Ambrose](https://www.amazon.com/How-Learning-Works-Research-Based-Principles-ebook/dp/B003IEJZXS)
