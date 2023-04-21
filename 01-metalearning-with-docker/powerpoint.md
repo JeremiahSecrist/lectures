@@ -42,7 +42,7 @@ This stage of learning is focused around the following:
 
 ## Personal Deadlines 
 An important in aiding in ones own learning abilities.
-Forever is never, as such it is important to frame our goals with the followin:
+Forever is never, as such it is important to frame our goals with the following:
 
  - Actionable goals
     <!-- overview goals while providing a direction, do not provide any one specific action to do.
@@ -80,6 +80,8 @@ While this is a wonderful aspiration it is implicit in many fashions. What is a 
 ## Explicit 
 > I want to improve my reading skills by reading at least 1hr a day. My goal is to create a better edjucation habbit for myself that will aid in learning in other areas. I plan to take note of how many pages I read and critique how well I comprehendded to the topic. My first book I read will by Ultralearning by Scott H. Young. I wish to read this book as it also pairs well with my other education goals. I will start reading tomorrow when I go to the coffee shop.
 
+---
+
 This contains a lot more information as to contrast the first one. 
 We can measure the following:
  - Why: To improve ones educational experience
@@ -93,7 +95,13 @@ This also ties into your everyday life and isn't arbitrary in nature.
 
 ---
 
-Life is full of constant distractions provided in many ways. Cellphones, friends, the internet, noisy envorments. They manifest in may ways and hinder our ability to learn effectivly within our given time frames. In some situations you may be able to remove the distractions enirely, for example setting your phone at home entirely. While in other situations you might not be able to remove the distractions you can learn to recognise when the interfere with your work. Either after you enter or leave your study session take note of what took your off your goal. Over time you will get better at negating these distractions from disturbing your flow of productivity.
+- Life is full of distractions that hinder our learning effectiveness.
+- Some distractions can be removed entirely, while others cannot.
+- Recognize when distractions interfere with work and take note of them.
+- Minimize distractions to improve productivity flow.
+- Over time, become better at negating distractions.
+
+<!-- Life is full of constant distractions provided in many ways. Cellphones, friends, the internet, noisy envorments. They manifest in may ways and hinder our ability to learn effectivly within our given time frames. In some situations you may be able to remove the distractions enirely, for example setting your phone at home entirely. While in other situations you might not be able to remove the distractions you can learn to recognise when the interfere with your work. Either after you enter or leave your study session take note of what took your off your goal. Over time you will get better at negating these distractions from disturbing your flow of productivity. -->
 
 ---
 
@@ -111,9 +119,16 @@ But most importatntly don't let feedback discourage you from your goals! They ar
 
 ---
 
-It is important to know that reading and following guides and tutorials will only get you so far on any given topic. The art of pushing beyond what is avaible that we truely grow. Try new ways of doing things and write down the results. Take note of how well they did or did not work. In what ways within the future could these be applied? Why did this new tecnique fail? Take time to dedicate venturing down the untrodden paths that you see. 
+ - Reading guides and tutorials can only take you so far on a given topic.
+ - Pushing beyond what is available is how true growth occurs.
+ - Experiment with new ways of doing things and write down the results.
+ - Take note of how well they worked or didn't work.
+ - Consider future applications of new techniques and analyze why they failed.
+ - Dedicate time to exploring unexplored paths.
+ - Take any and all failures as a chance to reflect and grow as a person. 
 
-Take any and all failures as a chance to reflect and grow as a person. 
+<!-- It is important to know that reading and following guides and tutorials will only get you so far on any given topic. The art of pushing beyond what is avaible that we truely grow. Try new ways of doing things and write down the results. Take note of how well they did or did not work. In what ways within the future could these be applied? Why did this new tecnique fail? Take time to dedicate venturing down the untrodden paths that you see.  -->
+
 
 ---
 
