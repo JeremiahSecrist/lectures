@@ -87,6 +87,8 @@ While this is a wonderful aspiration it is implicit in many fashions. What is a 
 
 ---
 
+## What can we glean?
+
 This contains a lot more information as to contrast the first one. 
 We can measure the following:
  - Why: To improve ones educational experience
@@ -100,6 +102,8 @@ This also ties into your everyday life and isn't arbitrary in nature.
 
 ---
 
+# Distractions abound!
+
 - Life is full of distractions that hinder our learning effectiveness.
 - Some distractions can be removed entirely, while others cannot.
 - Recognize when distractions interfere with work and take note of them.
@@ -109,8 +113,8 @@ This also ties into your everyday life and isn't arbitrary in nature.
 <!-- Life is full of constant distractions provided in many ways. Cellphones, friends, the internet, noisy envorments. They manifest in may ways and hinder our ability to learn effectivly within our given time frames. In some situations you may be able to remove the distractions enirely, for example setting your phone at home entirely. While in other situations you might not be able to remove the distractions you can learn to recognise when the interfere with your work. Either after you enter or leave your study session take note of what took your off your goal. Over time you will get better at negating these distractions from disturbing your flow of productivity. -->
 
 ---
-
-We are all experts in isolation, further inspection from outside sources we can quickly learn out own flaws in a given topic. Take writing or public speaking as examples. In order to increase our caoabilities it is crucial to request feedback those who have more expertise. It is also important to know how to filter out noise or bad feedback from others.
+# Perfect in the void
+<!-- We are all experts in isolation, further inspection from outside sources we can quickly learn out own flaws in a given topic. Take writing or public speaking as examples. In order to increase our caoabilities it is crucial to request feedback those who have more expertise. It is also important to know how to filter out noise or bad feedback from others. -->
 
  - is the feedback vague? 
  - am I able to apply the feedback to my next project?
@@ -137,19 +141,27 @@ But most importatntly don't let feedback discourage you from your goals! They ar
 
 ---
 
+# Success
 Congratulations, you have learned a new skill! Now what? Having a skill does not mean it will stay with you forever. You must either decide if you are ok with having to relearn the skill, or if you will maintin the skill activly. My personal favorite is mastery, to go above and beyond on this skill.
+
+---
 
 ## Maintain
 If you decide to maintine the new skill keep a regular interval of practice and self evaluation is key. Setup a weekly challange to test you are still razer sharp in the topic at hand. Be sure to find a way if possible to work it naturally into your daily routine. 
 
+---
+
 ## Relearn
 Somtimes our plate is already full of things to maintine, in these situations it ok to relearn something later when you need it. But make sure you are ok with the costs of relearning a topic down the road when the time arrises. This is where evaluation of value over knowledge is key. Knowing you can apply it daily often results in one maintining the knowledge by default. 
+
+---
 
 ## Mastery
 Studies have shown that mastery of a skill keeps more of the baseline reguarding knowledge and problem solving. Take the saying "it's like riding a bike". This refers to the idea that making things second nature persist in a way that simply being skilled is not mastery. Mastery is the idea that knowledge is intune with you on an inimate level.
 
 ---
 
+# Small habits
 If the intensity of this learning suggested is not for you is not appealing. Small habits can have a large impacts on your life. Take brushing your teeth for instance, it's 1 minute of your day every day for the rest of your life. But that small daily routine results in your teeth lasting long into your old age. Look for these small changes you can commit to that large ooutcomes down the roa
 
 ---
